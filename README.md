@@ -29,7 +29,7 @@ Soy una desarrolladora apasionada por crear experiencias digitales que no solo s
 ---
 
 ### 📫 ¿Cómo contactarme?
-- **LinkedIn:** [Azul Gissele Briones Zavala](https://www.linkedin.com/in/azulbriones/)
+- **LinkedIn:** [Azul Gissele Briones Zavala]([https://www.linkedin.com/in/azulbriones/](https://www.linkedin.com/in/azul-gissele-briones-zavala-351882222/))
 - **Email:** work@azulspace.dev
 
 *"Building solutions, not just websites."*
